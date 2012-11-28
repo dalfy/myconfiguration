@@ -1,0 +1,4 @@
+myconfiguration
+===============
+
+Vim configuration
